@@ -1,0 +1,9 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" "/Users/xuzizhuo/Desktop/Main Folder/My_works/Traffic_Simulation_Work/Traffic_Simulation_Prediction/Simulation_Prediction"
+-- Found Boost: /usr/local/lib/cmake/Boost-1.82.0/BoostConfig.cmake (found suitable version "1.82.0", minimum required is "1.76.0") found components: thread system filesystem 
+-- Found Boost: /usr/local/lib/cmake/Boost-1.82.0/BoostConfig.cmake (found suitable version "1.82.0", minimum required is "1.71.0") found components: system filesystem 
+-- Boost_INCLUDE_DIRS: /usr/local/include
+-- Boost_LIBRARIES: /usr/local/lib
+-- Boost_VERSION: 1.82.0
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/xuzizhuo/Desktop/Main Folder/My_works/Traffic_Simulation_Work/Traffic_Simulation_Prediction/Simulation_Prediction/cmake-build-debug
