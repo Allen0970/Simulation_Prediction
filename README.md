@@ -8,6 +8,7 @@ Install the [SUMO](https://sumo.dlr.de/docs/Downloads.php) simulator on your sys
 ##### 2. Select Region in OpenStreetMap
 - Go to [OpenStreetMap](https://www.openstreetmap.org/#map=5/38.01/-95.84) and select the region you want to simulate.
 - Export the region as a `.osm` file.
+- Manhattan road network in this work can be found in Google Drive named `map.osm`.
 
 ##### 3. Copy the Typemap File and Convert OSM to SUMO Network
 - Copy the `osmNetconvert.typ.xml` file from the `$SUMO_HOME/data/typemap` directory.
